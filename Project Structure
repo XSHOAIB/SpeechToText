@@ -1,0 +1,6 @@
+speech-to-text/
+│── README.md
+│── requirements.txt
+│── transcribe.py
+│── samples/
+    └── sample_audio.wav
